@@ -1,0 +1,1 @@
+SELECT * FROM weatherdb.city;CREATE DATABASE `weatherdb` /*!40100 DEFAULT CHARACTER SET utf8 */;
